@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\fabio\Desktop\carrinhoCompras\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+586137851.index
+3553744582.index
+2801273687.index
+605315033.index
+2422976335.index
+1702197145.index
